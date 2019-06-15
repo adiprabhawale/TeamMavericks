@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "18415290533",
+    "firebase_url": "https://team-mavericks-d49f9.firebaseio.com",
+    "project_id": "team-mavericks-d49f9",
+    "storage_bucket": "team-mavericks-d49f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18415290533:android:8680de1f7e319c0b",
+        "android_client_info": {
+          "package_name": "anonymous.teammavericks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18415290533-79fhve1rp2dce2gaj5vi5jq4prfqj965.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "anonymous.teammavericks",
+            "certificate_hash": "1dc5e55c62af8cd3d5e2ed35f0f6059de1f8e6f8"
+          }
+        },
+        {
+          "client_id": "18415290533-9i1l4ekqt5motfimqall1seghmiuvf9k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFHXEXaovWuSautetJXhbFo15l-g6YqYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18415290533-9i1l4ekqt5motfimqall1seghmiuvf9k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
